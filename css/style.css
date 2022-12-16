@@ -1,8 +1,8 @@
 .container{
-    width: 1000px;
+    width: 1200px;
     margin-left: auto;
     margin-right: auto;
-    padding: 15px 0px;
+    padding: 0 15px;
 }
 .slick-prev:before {
     content: '←';
@@ -17,9 +17,6 @@
 }
 
 .foto{
-  display: block;
-  justify-content: center;
-  align-items: center;
    margin: 15px;
 }
 .my-dots {
