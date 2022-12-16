@@ -17,7 +17,10 @@
 }
 
 .foto{
-    margin: 15px;
+  display: block;
+  justify-content: center;
+  align-items: center;
+   margin: 15px;
 }
 .my-dots {
     position: absolute;
